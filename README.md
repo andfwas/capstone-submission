@@ -7,7 +7,7 @@ A Friend of Mine has a useful, but old and somewhat broken app that is a tool fo
 
 ## What problem does your project solve?
 
-My friend's app as mentioned above is functioning but needs a lot of work. There are still people who use it but over time it has become sort of buggy and there is also an issue with the paypal system.
+My friend's app as mentioned above is functioning but needs a lot of work. There are still people who use it but over time it has become sort of buggy and there is also an issue with the paypal system. The site also relies heavily on flash making it not usable on many mobile devices and tablets. 
 
 ## Who has this problem?
 The product owners, the original developer of the project, and a handful of music teachers and their students who still use the old app.
