@@ -59,6 +59,8 @@ A complete rebuild of the entire application using many of the original assets i
 * About Us
 * About Our Subscriptions
 * Step-By-Step Instructions
+* STRETCH Teacher Assignments (students can see)
+* STRETCH Student Assignment Submissions (teachers can see)
 * STRETCH Paid Subscription Service
 * STRETCH Payment History
 * STRETCH Free Demo
